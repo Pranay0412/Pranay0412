@@ -1,13 +1,17 @@
-<h1 align="center" style="font-size: 45px; font-weight: bold;">👋 Hi, I'm Jain Pranay</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=55&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&height=80&lines=JAIN+PRANAY" alt="Jain Pranay" />
+</h1>
 
 <div align="center">
   <a href="https://github.com/Pranay0412">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=38B2AC&center=true&vCenter=true&width=800&height=50&lines=Computer+Engineering+Student+@+LJIET;Full-Stack+Web+Developer;Building+Scalable+Backend+Systems;Python,+Flask,+%26+PostgreSQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=38B2AC&center=true&vCenter=true&width=800&height=50&lines=Turning+ideas+into+reality...;Building+robust+backend+systems;Crafting+intuitive+user+interfaces;Continuous+learner+%26+tech+enthusiast;Aspiring+Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranay0412&label=Profile%20Views&color=38B2AC&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pranay0412&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <h3 align="center">
@@ -17,47 +21,51 @@
   <a href="#-connect-with-me">Contact</a>
 </h3>
 
-<hr>
+<br>
 
 <h2 id="-about-me">👨‍💻 About Me</h2>
 
 <h3>
 <ul>
   <li>🎓 <b>B.Tech Computer Engineering</b> student at LJ University (LJIET '28).</li>
-  <li>🚀 Aspiring <b>Full-Stack Developer</b> with a strong focus on backend architecture and database management.</li>
-  <li>💻 Currently developing <b>PropertyPlus</b>, a full-stack real estate web platform, implementing robust logic and clean user interfaces.</li>
-  <li>🧩 Passionate about solving complex logic problems and bridging the gap between hardware concepts and software applications.</li>
+  <li>🚀 Passionate about becoming a <b>Full-Stack Developer</b>, turning complex logic into seamless web applications.</li>
+  <li>💻 Currently building <b>PropertyPlus</b>, a full-stack real estate web platform using Flask, PostgreSQL, and Bootstrap.</li>
+  <li>⚡ Hands-on experience with hardware-software integration, including building a Universal Shift Register for digital electronics.</li>
 </ul>
 </h3>
 
 <br>
 
-<h2 id="-tech-stack">⚡ Tech Stack</h2>
+<h2 id="-tech-stack">⚡ Tech Stack (Box View)</h2>
 
-<h3 align="center">🖥️ Frontend</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="Frontend Skills" />
-  </a>
-</p>
-
-<h3 align="center">⚙️ Backend & Frameworks</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,java" alt="Backend Skills" />
-  </a>
-</p>
-
-<h3 align="center">🗄️ Databases & Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" alt="Database Skills" />
-  </a>
-</p>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="33%"><h3>📱 Frontend</h3></td>
+    <td align="center" width="33%"><h3>⚙️ Backend</h3></td>
+    <td align="center" width="33%"><h3>🗄️ Database & Tools</h3></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=3" alt="Frontend Folder" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,flask,java&perline=2" alt="Backend Folder" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github&perline=2" alt="Database Folder" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<h2 id="-github-stats">📈 GitHub Stats</h2>
+<h2 id="-github-stats">📈 GitHub Dashboard</h2>
 
 <div align="center">
   <a href="https://github.com/Pranay0412">
@@ -75,14 +83,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jainpranay-d041207" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jainpranaytaral@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Pranay0412" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
   </a>
 </p>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
