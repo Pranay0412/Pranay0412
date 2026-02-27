@@ -1,175 +1,182 @@
 <!-- =========================================================
-     ✅ FULL COMBINED README (Header + Your Content + Footer)
-     Copy-paste this entire file into README.md
+✅ PREMIUM README (Animated background header + new taglines + unique widget styling)
+IMPORTANT: Paste into README.md and DO NOT wrap the whole file again in another ``` block.
+Header banner uses svg-banners (animated SVG API). :contentReference[oaicite:0]{index=0}
 ========================================================= -->
-
-<!-- ================= HEADER ================= -->
 
 <div align="center">
 
-  <!-- Hero Banner (non-wavy, modern) -->
-  <img src="https://readme-hero.vercel.app/api?name=Jain%20Pranay&description=Full-Stack%20Developer%20|%20Computer%20Engineering%20@%20LJIET%20'28&theme=tokyonight&fontSize=48&animation=fade" alt="Jain Pranay Hero Banner"/>
+  <!-- ✅ Animated Background Header (NOT capsule-wave / NOT transparent) -->
+  <img
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=JAIN%20PRANAY&text2=BUILD%20%E2%86%92%20SHIP%20%E2%86%92%20IMPROVE%20%7C%20Full-Stack%20Dev&width=1000&height=260"
+    alt="Jain Pranay Animated Banner"
+  />
 
-  <br>
+  <br><br>
 
-  <!-- Animated Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c4e-8c5cfc18b6f5.gif" width="100%" alt="Divider"/>
-
-  <!-- Typing Taglines -->
+  <!-- ✅ New typing lines (short + attractive) -->
   <a href="https://github.com/Pranay0412">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=38B2AC&center=true&vCenter=true&width=750&lines=Computer+Engineering+%40+LJIET+'28;Aspiring+Full-Stack+Developer;Building+PropertyPlus+with+Flask;Turning+Coffee+Into+Code" alt="Typing Taglines" />
+    <img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1800&color=E56B2D&center=true&vCenter=true&width=900&lines=Learning+today%2C+building+for+tomorrow;Turning+complex+problems+into+simple+solutions;Full-Stack+mindset%3A+Design+%E2%86%92+Develop+%E2%86%92+Deploy;From+idea+to+production;Where+logic+meets+creativity;Passion+for+building.+Discipline+for+improving."
+  alt="Typing Taglines"
+/>
   </a>
 
   <br><br>
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Pranay0412&label=PROFILE%20VIEWS&color=38B2AC&style=for-the-badge" alt="Profile Views" />
+  <!-- Views -->
+  <img
+    src="https://komarev.com/ghpvc/?username=Pranay0412&label=PROFILE%20VIEWS&color=E56B2D&style=for-the-badge"
+    alt="Profile Views"
+  />
+
+  <br>
+
+  <!-- Always-load badges (fallback if widgets are rate-limited) -->
+  <img src="https://img.shields.io/github/followers/Pranay0412?style=for-the-badge&label=Followers&labelColor=111111&color=E56B2D" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Pranay0412?style=for-the-badge&label=Stars&labelColor=111111&color=E56B2D" alt="Stars"/>
 
 </div>
 
-<br>
+---
 
-<!-- Quick Navigation Buttons -->
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/👨‍💻_About_Me-1e1e2e?style=for-the-badge&logoColor=white" alt="About Me"/></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/⚡_Tech_Stack-1e1e2e?style=for-the-badge&logoColor=white" alt="Tech Stack"/></a>
-  <a href="#-github-dashboard"><img src="https://img.shields.io/badge/📈_GitHub_Stats-1e1e2e?style=for-the-badge&logoColor=white" alt="Stats"/></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/📫_Contact_Me-1e1e2e?style=for-the-badge&logoColor=white" alt="Contact"/></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/👨‍💻_About_Me-111111?style=for-the-badge&logoColor=white" alt="About"/></a>
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/⚡_Tech_Stack-111111?style=for-the-badge&logoColor=white" alt="Stack"/></a>
+  <a href="#-featured-project"><img src="https://img.shields.io/badge/🌟_Featured_Project-111111?style=for-the-badge&logoColor=white" alt="Project"/></a>
+  <a href="#-dev-dashboard"><img src="https://img.shields.io/badge/📈_Dev_Dashboard-111111?style=for-the-badge&logoColor=white" alt="Dashboard"/></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/📫_Connect-111111?style=for-the-badge&logoColor=white" alt="Connect"/></a>
 </p>
 
-<br>
+---
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c4e-8c5cfc18b6f5.gif" alt="Divider"/>
+## 👨‍💻 About Me
 
-<!-- ================= ABOUT ME ================= -->
+- 🎓 **B.Tech Computer Engineering** student at **LJ University (LJIET '28)**
+- 🚀 **Full-Stack Developer** mindset: UI → API → DB → deployment
+- 💻 Building **PropertyPlus** with **Flask + PostgreSQL + Bootstrap**
+- ⚡ Hands-on hardware/software work (e.g., **Universal Shift Register**)
 
-<h2 id="-about-me">👨‍💻 About Me</h2>
+---
 
-<h3>
-<ul>
-  <li>🎓 <b>B.Tech Computer Engineering</b> student at LJ University (LJIET '28).</li>
-  <li>🚀 Aspiring <b>Full-Stack Developer</b>, turning complex logic into seamless web applications.</li>
-  <li>💻 Currently building <b>PropertyPlus</b>, a full-stack real estate web platform using Flask, PostgreSQL, and Bootstrap.</li>
-  <li>⚡ Hands-on experience with hardware-software integration, including building a Universal Shift Register for digital electronics.</li>
-</ul>
-</h3>
+## ⚡ Tech Stack
 
-<br>
+| 📱 Frontend | ⚙️ Backend | 🗄️ Database & Tools |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=5" /> | <img src="https://skillicons.dev/icons?i=python,flask,java&perline=5" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github&perline=5" /> |
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c4e-8c5cfc18b6f5.gif" alt="Divider"/>
+---
 
-<!-- ================= TECH STACK ================= -->
+## 🌟 Featured Project
 
-<h2 id="-tech-stack">⚡ Tech Stack</h2>
+### 🏠 PropertyPlus — Smart Real Estate Web Application
+- ❤️ Save properties + interest button  
+- 📉 Price drop alerts (email)  
+- 📧 Email OTP verification + password reset  
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center"><h3>📱 Frontend</h3></td>
-    <td width="10%"></td>
-    <td align="center"><h3>⚙️ Backend</h3></td>
-    <td width="10%"></td>
-    <td align="center"><h3>🗄️ Database & Tools</h3></td>
-  </tr>
+🔗 **GitHub:** https://github.com/Pranay0412
 
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=3" alt="Frontend Skills" />
-      </a>
-    </td>
+---
 
-    <td width="10%"></td>
+## 📈 Dev Dashboard
 
-    <td align="center" valign="top">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,flask,java&perline=2" alt="Backend Skills" />
-      </a>
-    </td>
-
-    <td width="10%"></td>
-
-    <td align="center" valign="top">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github&perline=2" alt="Database Skills" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c4e-8c5cfc18b6f5.gif" alt="Divider"/>
-
-<!-- ================= OPTIONAL: TROPHIES ================= -->
-<!-- (Remove this block if you want a simpler README) -->
-
-<h2>🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranay0412&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c4e-8c5cfc18b6f5.gif" alt="Divider"/>
-
-<!-- ================= GITHUB DASHBOARD ================= -->
-
-<h2 id="-github-dashboard">📈 GitHub Dashboard</h2>
+> ✅ “Never-used-by-anyone” look = we avoid the common default themes and use a **custom color system** (ember + charcoal) across all cards.
+> If GitHub/Vercel is rate-limited sometimes, your fallback badges above still show activity. :contentReference[oaicite:1]{index=1}
 
 <div align="center">
-  <a href="https://github.com/Pranay0412">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pranay0412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Pranay0412">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay0412&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+
+  <!-- Custom-styled Stats -->
+  <img
+    height="175"
+    alt="Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Pranay0412&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0D0D&title_color=E56B2D&text_color=EDEDED&icon_color=E56B2D&ring_color=E56B2D&cache_seconds=21600"
+  />
+
+  <!-- Custom-styled Top Languages -->
+  <img
+    height="175"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay0412&layout=compact&hide_border=true&langs_count=10&bg_color=0D0D0D&title_color=E56B2D&text_color=EDEDED&icon_color=E56B2D&cache_seconds=21600"
+  />
+
 </div>
 
 <br>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c5cfc18b6f5.gif" alt="Divider"/>
+<div align="center">
 
-<!-- ================= CONNECT WITH ME ================= -->
+  <!-- 🔥 Streak (use an uncommon theme from the official theme list) :contentReference[oaicite:2]{index=2} -->
+  <img
+    height="190"
+    alt="Streak"
+    src="https://streak-stats.demolab.com?user=Pranay0412&theme=neon-blurange&hide_border=true&border_radius=18&date_format=j%20M%5B%20Y%5D&v=2"
+  />
 
-<h2 id="-connect-with-me">📫 Connect With Me</h2>
+</div>
+
+<br>
+
+<div align="center">
+
+  <!-- ⚡ Contribution Activity Graph (custom theme; generator supported) :contentReference[oaicite:3]{index=3} -->
+  <img
+    alt="Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay0412&theme=github-compact&hide_border=true&radius=16&v=2"
+  />
+</div>
+
+---
+
+## 🏆 Highlights
+
+> ✅ Trophies with dual-host fallback (if one fails, the other often loads).
+
+<div align="center">
+
+  <img
+    alt="Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=Pranay0412&no-frame=true&row=1&column=6&margin-w=10&margin-h=10&theme=darkhub"
+  />
+
+  <br><br>
+
+  <img
+    alt="Trophies Fallback"
+    src="https://github-profile-trophy-git-main.vercel.app/?username=Pranay0412&no-frame=true&row=1&column=6&margin-w=10&margin-h=10&theme=darkhub"
+  />
+
+</div>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jainpranay-d041207" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="55" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jainpranaytaral@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="55" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Pranay0412" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" />
+    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
   </a>
 </p>
 
-<br>
-
-<!-- ================= FOOTER ================= -->
+---
 
 <div align="center">
 
-  <!-- Subtle Gradient Line (not wavy, minimal) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:38B2AC&height=3&section=footer" alt="Footer Line" />
-
-  <br><br>
-
-  <h3>✨ Thanks for visiting my profile!</h3>
-  <p>🚀 Building projects | 💡 Learning daily | 🔗 Let's connect and collaborate</p>
+  <!-- Footer: animated banner (matches header, different text) -->
+  <img
+    src="https://svg-banners.vercel.app/api?type=luminance&text1=Thanks%20for%20visiting!&text2=Let%E2%80%99s%20build%20something%20real.&width=1000&height=180"
+    alt="Footer Banner"
+  />
 
   <br>
 
-  <i>"Code. Build. Improve. Repeat."</i>
-
-  <br><br>
+  <i>"Design it. Build it. Ship it."</i>
 
 </div>
