@@ -1,19 +1,35 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=JAIN%20PRANAY&fontSize=75&fontColor=38B2AC&animation=scaleIn" alt="Jain Pranay" />
-</div>
+<!-- =========================================================
+     ✅ FULL COMBINED README (Header + Your Content + Footer)
+     Copy-paste this entire file into README.md
+========================================================= -->
+
+<!-- ================= HEADER ================= -->
 
 <div align="center">
+
+  <!-- Hero Banner (non-wavy, modern) -->
+  <img src="https://readme-hero.vercel.app/api?name=Jain%20Pranay&description=Full-Stack%20Developer%20|%20Computer%20Engineering%20@%20LJIET%20'28&theme=tokyonight&fontSize=48&animation=fade" alt="Jain Pranay Hero Banner"/>
+
+  <br>
+
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c4e-8c5cfc18b6f5.gif" width="100%" alt="Divider"/>
+
+  <!-- Typing Taglines -->
   <a href="https://github.com/Pranay0412">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=0e75b6&center=true&vCenter=true&width=600&height=40&lines=Computer+Engineering+@+LJIET+'28;Aspiring+Full-Stack+Developer;Building+PropertyPlus+with+Flask;Turning+Coffee+Into+Code" alt="Typing Taglines" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=38B2AC&center=true&vCenter=true&width=750&lines=Computer+Engineering+%40+LJIET+'28;Aspiring+Full-Stack+Developer;Building+PropertyPlus+with+Flask;Turning+Coffee+Into+Code" alt="Typing Taglines" />
   </a>
-</div>
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Pranay0412&label=PROFILE%20VIEWS&labelColor=%231e1e2e&countColor=%2338B2AC&style=for-the-badge" alt="Profile Views" />
-</p>
+  <br><br>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Pranay0412&label=PROFILE%20VIEWS&color=38B2AC&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 <br>
 
+<!-- Quick Navigation Buttons -->
 <p align="center">
   <a href="#-about-me"><img src="https://img.shields.io/badge/👨‍💻_About_Me-1e1e2e?style=for-the-badge&logoColor=white" alt="About Me"/></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/⚡_Tech_Stack-1e1e2e?style=for-the-badge&logoColor=white" alt="Tech Stack"/></a>
@@ -22,6 +38,11 @@
 </p>
 
 <br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c4e-8c5cfc18b6f5.gif" alt="Divider"/>
+
+<!-- ================= ABOUT ME ================= -->
 
 <h2 id="-about-me">👨‍💻 About Me</h2>
 
@@ -36,33 +57,66 @@
 
 <br>
 
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c4e-8c5cfc18b6f5.gif" alt="Divider"/>
+
+<!-- ================= TECH STACK ================= -->
+
 <h2 id="-tech-stack">⚡ Tech Stack</h2>
+
 <table align="center" style="border: none;">
   <tr>
     <td align="center"><h3>📱 Frontend</h3></td>
-    <td width="10%"></td> <td align="center"><h3>⚙️ Backend</h3></td>
-    <td width="10%"></td> <td align="center"><h3>🗄️ Database & Tools</h3></td>
+    <td width="10%"></td>
+    <td align="center"><h3>⚙️ Backend</h3></td>
+    <td width="10%"></td>
+    <td align="center"><h3>🗄️ Database & Tools</h3></td>
   </tr>
+
   <tr>
     <td align="center" valign="top">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=3" alt="Frontend Folder" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=3" alt="Frontend Skills" />
       </a>
     </td>
-    <td width="10%"></td> <td align="center" valign="top">
+
+    <td width="10%"></td>
+
+    <td align="center" valign="top">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,flask,java&perline=2" alt="Backend Folder" />
+        <img src="https://skillicons.dev/icons?i=python,flask,java&perline=2" alt="Backend Skills" />
       </a>
     </td>
-    <td width="10%"></td> <td align="center" valign="top">
+
+    <td width="10%"></td>
+
+    <td align="center" valign="top">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github&perline=2" alt="Database Folder" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github&perline=2" alt="Database Skills" />
       </a>
     </td>
   </tr>
 </table>
 
 <br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c4e-8c5cfc18b6f5.gif" alt="Divider"/>
+
+<!-- ================= OPTIONAL: TROPHIES ================= -->
+<!-- (Remove this block if you want a simpler README) -->
+
+<h2>🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranay0412&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c4e-8c5cfc18b6f5.gif" alt="Divider"/>
+
+<!-- ================= GITHUB DASHBOARD ================= -->
 
 <h2 id="-github-dashboard">📈 GitHub Dashboard</h2>
 
@@ -76,6 +130,11 @@
 </div>
 
 <br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284084-4c1d5cde-3b4b-4d89-8c5cfc18b6f5.gif" alt="Divider"/>
+
+<!-- ================= CONNECT WITH ME ================= -->
 
 <h2 id="-connect-with-me">📫 Connect With Me</h2>
 
@@ -92,3 +151,25 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" />
   </a>
 </p>
+
+<br>
+
+<!-- ================= FOOTER ================= -->
+
+<div align="center">
+
+  <!-- Subtle Gradient Line (not wavy, minimal) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:38B2AC&height=3&section=footer" alt="Footer Line" />
+
+  <br><br>
+
+  <h3>✨ Thanks for visiting my profile!</h3>
+  <p>🚀 Building projects | 💡 Learning daily | 🔗 Let's connect and collaborate</p>
+
+  <br>
+
+  <i>"Code. Build. Improve. Repeat."</i>
+
+  <br><br>
+
+</div>
