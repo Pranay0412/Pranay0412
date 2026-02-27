@@ -1,12 +1,10 @@
 <!-- =========================================================
-✅ PREMIUM README (Animated background header + new taglines + unique widget styling)
-IMPORTANT: Paste into README.md and DO NOT wrap the whole file again in another ``` block.
-Header banner uses svg-banners (animated SVG API). :contentReference[oaicite:0]{index=0}
+PREMIUM README 
 ========================================================= -->
 
 <div align="center">
 
-  <!-- ✅ Animated Background Header (NOT capsule-wave / NOT transparent) -->
+  <!-- Animated Background Header -->
   <img
     src="https://svg-banners.vercel.app/api?type=glitch&text1=JAIN%20PRANAY&text2=BUILD%20%E2%86%92%20SHIP%20%E2%86%92%20IMPROVE%20%7C%20Full-Stack%20Dev&width=1000&height=260"
     alt="Jain Pranay Animated Banner"
@@ -14,7 +12,7 @@ Header banner uses svg-banners (animated SVG API). :contentReference[oaicite:0]{
 
   <br><br>
 
-  <!-- ✅ New typing lines (short + attractive) -->
+  <!-- New typing lines -->
   <a href="https://github.com/Pranay0412">
     <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1800&color=E56B2D&center=true&vCenter=true&width=900&lines=Learning+today%2C+building+for+tomorrow;Turning+complex+problems+into+simple+solutions;Full-Stack+mindset%3A+Design+%E2%86%92+Develop+%E2%86%92+Deploy;From+idea+to+production;Where+logic+meets+creativity;Passion+for+building.+Discipline+for+improving."
@@ -32,7 +30,7 @@ Header banner uses svg-banners (animated SVG API). :contentReference[oaicite:0]{
 
   <br>
 
-  <!-- Always-load badges (fallback if widgets are rate-limited) -->
+  <!-- Always-load badges  -->
   <img src="https://img.shields.io/github/followers/Pranay0412?style=for-the-badge&label=Followers&labelColor=111111&color=E56B2D" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Pranay0412?style=for-the-badge&label=Stars&labelColor=111111&color=E56B2D" alt="Stars"/>
 
@@ -80,8 +78,6 @@ Header banner uses svg-banners (animated SVG API). :contentReference[oaicite:0]{
 
 ## 📈 Dev Dashboard
 
-> ✅ “Never-used-by-anyone” look = we avoid the common default themes and use a **custom color system** (ember + charcoal) across all cards.
-> If GitHub/Vercel is rate-limited sometimes, your fallback badges above still show activity. :contentReference[oaicite:1]{index=1}
 
 <div align="center">
 
@@ -105,7 +101,7 @@ Header banner uses svg-banners (animated SVG API). :contentReference[oaicite:0]{
 
 <div align="center">
 
-  <!-- 🔥 Streak (use an uncommon theme from the official theme list) :contentReference[oaicite:2]{index=2} -->
+  <!-- 🔥 Streak -->
   <img
     height="190"
     alt="Streak"
@@ -118,7 +114,7 @@ Header banner uses svg-banners (animated SVG API). :contentReference[oaicite:0]{
 
 <div align="center">
 
-  <!-- ⚡ Contribution Activity Graph (custom theme; generator supported) :contentReference[oaicite:3]{index=3} -->
+  <!-- ⚡ Contribution Activity Graph -->
   <img
     alt="Contribution Graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay0412&theme=github-compact&hide_border=true&radius=16&v=2"
@@ -129,7 +125,6 @@ Header banner uses svg-banners (animated SVG API). :contentReference[oaicite:0]{
 
 ## 🏆 Highlights
 
-> ✅ Trophies with dual-host fallback (if one fails, the other often loads).
 
 <div align="center">
 
@@ -169,7 +164,7 @@ Header banner uses svg-banners (animated SVG API). :contentReference[oaicite:0]{
 
 <div align="center">
 
-  <!-- Footer: animated banner (matches header, different text) -->
+  <!-- Footer: animated banner -->
   <img
     src="https://svg-banners.vercel.app/api?type=luminance&text1=Thanks%20for%20visiting!&text2=Let%E2%80%99s%20build%20something%20real.&width=1000&height=180"
     alt="Footer Banner"
