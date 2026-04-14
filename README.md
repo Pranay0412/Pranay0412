@@ -85,6 +85,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pranay0412/Pranay0412/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
 ## 🏆 Highlights
 
 <div align="center">
