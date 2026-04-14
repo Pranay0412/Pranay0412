@@ -56,31 +56,31 @@
 🔗 **GitHub:** https://github.com/Pranay0412
 
 ---
-
 ## 📈 Dev Dashboard
 
 <div align="center">
-
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Pranay0412&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0D0D&title_color=E56B2D&text_color=EDEDED&icon_color=E56B2D" alt="Stats" />
-
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay0412&layout=compact&hide_border=true&langs_count=10&bg_color=0D0D0D&title_color=E56B2D&text_color=EDEDED" alt="Top Languages" />
-
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Pranay0412&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay0412&layout=compact&theme=dark&hide_border=true&langs_count=8" width="300" alt="Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
 <div align="center">
-
-  <img height="180" src="https://streak-stats.demolab.com?user=Pranay0412&theme=neon-blurange&hide_border=true&border_radius=18" alt="Streak" />
-
+  <img src="https://streak-stats.demolab.com?user=Pranay0412&theme=dark&hide_border=true&border_radius=10" alt="Streak" />
 </div>
 
 <br>
 
 <div align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay0412&theme=github-compact&hide_border=true&radius=16" alt="Contribution Graph" />
-
 </div>
 
 ---
