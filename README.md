@@ -62,10 +62,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Pranay0412&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pranay0412&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay0412&layout=compact&theme=dark&hide_border=true&langs_count=8" width="300" alt="Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pranay0412&layout=compact&theme=dark&hide_border=true&langs_count=8" width="300" alt="Languages" />
       </td>
     </tr>
   </table>
