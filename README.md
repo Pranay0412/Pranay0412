@@ -20,11 +20,11 @@
 ---
 
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/👨‍💻_About_Me-111111?style=for-the-badge&logoColor=white" alt="About"/></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/⚡_Tech_Stack-111111?style=for-the-badge&logoColor=white" alt="Stack"/></a>
-  <a href="#-featured-project"><img src="https://img.shields.io/badge/🌟_Featured_Project-111111?style=for-the-badge&logoColor=white" alt="Project"/></a>
-  <a href="#-dev-dashboard"><img src="https://img.shields.io/badge/📈_Dev_Dashboard-111111?style=for-the-badge&logoColor=white" alt="Dashboard"/></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/📫_Connect-111111?style=for-the-badge&logoColor=white" alt="Connect"/></a>
+  <a href="#about-me"><img src="https://img.shields.io/badge/👨‍💻_About_Me-111111?style=for-the-badge&logoColor=white" alt="About"/></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/⚡_Tech_Stack-111111?style=for-the-badge&logoColor=white" alt="Stack"/></a>
+  <a href="#featured-project"><img src="https://img.shields.io/badge/🌟_Featured_Project-111111?style=for-the-badge&logoColor=white" alt="Project"/></a>
+  <a href="#dev-dashboard"><img src="https://img.shields.io/badge/📈_Dev_Dashboard-111111?style=for-the-badge&logoColor=white" alt="Dashboard"/></a>
+  <a href="#connect-with-me"><img src="https://img.shields.io/badge/📫_Connect-111111?style=for-the-badge&logoColor=white" alt="Connect"/></a>
 </p>
 
 ---
@@ -40,9 +40,9 @@
 
 ## ⚡ Tech Stack
 
-| 📱 Frontend | ⚙️ Backend | 🗄️ Database & Tools |
-|---|---|---|
-| <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=5" /> | <img src="https://skillicons.dev/icons?i=python,flask,java&perline=5" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github&perline=5" /> |
+| 📱 Frontend | ⚙️ Backend | 🗄️ Database & Tools | 🧠 ML & Extras |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=html" title="HTML5" /> <img src="https://skillicons.dev/icons?i=css" title="CSS3" /> <img src="https://skillicons.dev/icons?i=js" title="JavaScript" /> <br> <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" /> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" /> <img src="https://skillicons.dev/icons?i=react" title="React" /> | <img src="https://skillicons.dev/icons?i=python" title="Python" /> <img src="https://skillicons.dev/icons?i=flask" title="Flask" /> <img src="https://skillicons.dev/icons?i=java" title="Java" /> <br> <img src="https://skillicons.dev/icons?i=django" title="Django" /> <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> <img src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /> <img src="https://skillicons.dev/icons?i=mongo" title="MongoDB" /> <br> <img src="https://skillicons.dev/icons?i=git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-Learn" /> <img src="https://skillicons.dev/icons?i=selenium" title="Web Scraping" /> |
 
 ---
 
@@ -104,7 +104,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jainpranay-d041207" target="_blank">
+  <a href="https://www.linkedin.com/in/pranay-jain-d4127/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
